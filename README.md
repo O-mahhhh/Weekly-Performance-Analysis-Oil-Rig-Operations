@@ -48,13 +48,14 @@ Dashboard Preview:![Oil Rig Dashboard Snapshot](https://github.com/your-username
 
 👉 [View Interactive Dashboard Here](https://github.com/O-mahhhh/Weekly-Performance-Analysis-Oil-Rig-Operations/blob/main/Cleaned%20Data1.xlsx)
 
-## Conclusion & Recommendations
+## Summary and Conclusions
+
 The Weekly Oil Rig Dashboard provides valuable insights into the operational performance of four oil rigs over a four-week period. By analyzing key indicators such as production volume, efficiency, cost, workforce training, and quality rates, this dashboard makes it easy to compare performance and identify opportunities for improvement.
 
 **Rig 1** is the most productive in terms of total units but also incurs the highest production cost. **Rig 2** shows the best balance between cost-efficiency and consistent output. **Rig 3** leads in quality control, achieving the highest quality rate despite not being the top producer. **Rig 4** underperforms across most metrics—it has the lowest output, highest cost per unit, and lowest training hours, which correlates with its low quality rate.
 
 
-### Recommendations
+## Recommendations
 
 - **Improve Training on Rig 4**
 
