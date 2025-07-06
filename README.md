@@ -41,8 +41,9 @@ Visualizations were created entirely in Excel, combining the
 - Conditional formatting for visual cues
 - DAX formulas in Excel's Data Model for calculated fields
 
-Dashboard Preview:![Oil Rig Dashboard Snapshot](https://github.com/your-username/your-repo-name/blob/main/assets/Oil_Rig_Dashboard.png)
+## Dashboard Preview
 
+![Oil Rig Dashboard Snapshot](https://github.com/O-mahhhh/Weekly-Performance-Analysis-Oil-Rig-Operations/blob/main/Oil%20Rig%20Dashboard.png)
 
 ## You Can Interact With This Project Here
 
